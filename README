@@ -1,0 +1,10 @@
+AI 3D Science Viewer
+​A high-performance molecular visualization tool for Biochemistry.
+​🧪 Scientific Features
+​Molecular Rendering: Optimized for protein ribbons, sticks, spheres, and surface mapping.
+​Data Driven: Powered by 3Dmol.js, allowing for the direct rendering of PDB (Protein Data Bank) files.
+​Interactive Analysis: Support for atom labeling and distance measurements (if implemented).
+​🛠️ Technical Stack
+​Library: 3Dmol.js (Object-oriented, WebGL-based hardware acceleration).
+​Development: Built using Caffeine AI.
+​Deployment: GitHub Pages.
